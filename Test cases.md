@@ -586,8 +586,8 @@
 
 **TC#ID:** TC#23 <br>
 **Req#ID:** Req5 <br>
-**Test scenario:** Verifying 15% discount. <br>
-**Test case title:**  <br>
+**Test scenario:** Verify 0.1 difference. <br>
+**Test case title:**  Verify 0.1 difference.<br>
 **Description:** <br>
 **Precondition:** User has browser opened and is located on page https://exercises.test-design.org/price-calculation/ <br>
 **Test steps** 
