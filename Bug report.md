@@ -29,8 +29,9 @@
 
 **Attachment:**
 
-slika1
-slika2
+![Slika1](https://github.com/markonrt/QA-Project/assets/95719771/e599bcc9-8c3b-4ecf-bd6d-36dd5b0ec869)
+![Slika2](https://github.com/markonrt/QA-Project/assets/95719771/868b6aa6-5811-42e1-a743-be749fca8851)
+
 
 
 
@@ -67,8 +68,7 @@ slika2
 **Repro rate:**100%
 
 **Attachment:**
-slika1
-slika2
+![Slika3](https://github.com/markonrt/QA-Project/assets/95719771/0caf0f07-14b0-4fc1-a045-bfda94bfd3b4)
 
 
 
@@ -108,7 +108,7 @@ slika2
 **Attachment:**
 https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=sharing
 <br>
-slika1
+![Slika4](https://github.com/markonrt/QA-Project/assets/95719771/92ead406-8014-43f5-ab00-c38a4b972c04)
 
 
 
@@ -145,7 +145,7 @@ slika1
 
 **Attachment:**
 <br>
-slika1
+![Slika5](https://github.com/markonrt/QA-Project/assets/95719771/dae59963-768d-484c-bd68-a467e0e23a38)
 
 
 
