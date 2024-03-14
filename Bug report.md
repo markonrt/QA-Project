@@ -219,3 +219,5 @@ https://drive.google.com/file/d/1wATjybG203Jc7fVYCmUIEc2Z9_Wb7Flj/view?usp=shari
 
 **Attachment:**
 https://drive.google.com/file/d/1eqE_YdUsrS1tsNCBjAW4_9KtnvP5MkFc/view?usp=sharing
+![bugreport](https://github.com/markonrt/QA-Project/assets/95719771/4fc392de-63ed-4f03-9e22-894eb3a92286)
+
