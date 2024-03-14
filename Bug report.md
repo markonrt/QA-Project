@@ -25,7 +25,7 @@
 
 **Severity:** Medium
 
-**Repro rate:**100%
+**Repro rate:** 100%
 
 **Attachment:**
 
@@ -65,7 +65,7 @@
 
 **Severity:** High
 
-**Repro rate:**100%
+**Repro rate:** 100%
 
 **Attachment:**
 ![Slika3](https://github.com/markonrt/QA-Project/assets/95719771/0caf0f07-14b0-4fc1-a045-bfda94bfd3b4)
@@ -103,7 +103,7 @@
 
 **Severity:** Low
 
-**Repro rate:**100%
+**Repro rate:** 100%
 
 **Attachment:**
 https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=sharing
@@ -141,7 +141,7 @@ https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=shari
 
 **Severity:** Low
 
-**Repro rate:**100%
+**Repro rate:** 100%
 
 **Attachment:**
 <br>
@@ -178,7 +178,7 @@ https://drive.google.com/file/d/1jinBPVjy7hvyX8L-aEB258aDgZQkHTfY/view?usp=shari
 
 **Severity:** Medium
 
-**Repro rate:**100%
+**Repro rate:** 100%
 
 **Attachment:**
 https://drive.google.com/file/d/1wATjybG203Jc7fVYCmUIEc2Z9_Wb7Flj/view?usp=sharing
@@ -215,7 +215,7 @@ https://drive.google.com/file/d/1wATjybG203Jc7fVYCmUIEc2Z9_Wb7Flj/view?usp=shari
 
 **Severity:** Medium
 
-**Repro rate:**100%
+**Repro rate:** 100%
 
 **Attachment:**
 ![bugreport](https://github.com/markonrt/QA-Project/assets/95719771/4fc392de-63ed-4f03-9e22-894eb3a92286)
