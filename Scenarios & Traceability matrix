@@ -1,0 +1,16 @@
+
+**Test Scenarios**
+
+|ScenNum|Req#ID|Scenarios|No. Of Test Cases|
+| :- | :- | :- | :- |
+|1\.|Req1|Valid input for price and weight.|1|
+|2\.|Req1|Invalid input for price.|1|
+|3\.|Req1|Invalid input for weight.|2|
+|4\.|Req1|Verify 10% discount.|4|
+|5\.|Req2|Verifying free delivery.|4|
+|6\.|Req2|Verifying price of delivery.|1|
+|7\.|Req3|Verifying free delivery with price over 100e.|4|
+|8\.|Req4|Verifying 3% discount.|2|
+|9\.|Req4|Verifying 3% discount with delivery.|1|
+|10\.|Req5|Verifying 15% discount.|2|
+|11\.|Req6|Verify 0.1 difference.|1|
