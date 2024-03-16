@@ -596,7 +596,7 @@
 |:-|:-|:-|:-|
 |1\.|Enter provided value in the price field.|88.1|Price field is populated.|
 |2\.|Enter provided value in the weight field.|50.76|Weight field is populated.|
-|3\.|Click the button ‘Next step’.||Total price should not be round number, it should include decimals.|
+|3\.|Click the button ‘Next step’.||Total price should not be round number, it should include 1 decimal.|
 
 <br>
 
